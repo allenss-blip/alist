@@ -133,3 +133,10 @@ The `AList` is open-source software licensed under the AGPL-3.0 license.
 ---
 
 > [@Blog](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@TelegramGroup](https://t.me/alist_chat) · [@Discord](https://discord.gg/F4ymsH4xv2)
+<script type="text/javascript">
+function doZoom(size)
+{document.getElementById('zoom').style.fontSize=size+'px';}
+</script>
+<span id="zoom">需要指定大小的文字</span>
+<a href="javascript:doZoom(16)">大</a> <a href="javascript:doZoom(14)">中</a> <a
+href="javascript:doZoom(12)">小</a>
